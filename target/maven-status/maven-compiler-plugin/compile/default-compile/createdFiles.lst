@@ -1,0 +1,13 @@
+caf\backend\logic\setLogic.class
+caf\backend\dal\interfaces\iSet.class
+caf\backend\controller\whiteController.class
+caf\backend\logic\blackcardLogic.class
+caf\backend\BackendApplication.class
+caf\backend\controller\setController.class
+caf\backend\logic\model\entities\Set.class
+caf\backend\logic\whitecardLogic.class
+caf\backend\dal\interfaces\iBlackcards.class
+caf\backend\logic\model\entities\Whitecard.class
+caf\backend\logic\model\entities\Blackcard.class
+caf\backend\controller\blackController.class
+caf\backend\dal\interfaces\iWhitecards.class
